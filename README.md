@@ -27,7 +27,7 @@ It supports Savings and Checking accounts, deposits, withdrawals, and transfers.
 
 | 🏦 |
 |-----|
-| ![Screenshot](./3png) |
+| ![Screenshot](./Screenshot/3.png) |
 
 ---
 

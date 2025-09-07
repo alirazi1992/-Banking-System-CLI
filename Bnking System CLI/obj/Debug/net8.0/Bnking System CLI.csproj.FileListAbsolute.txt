@@ -1,0 +1,14 @@
+C:\Users\a.razi\source\repos\Bnking System CLI\Bnking System CLI\bin\Debug\net8.0\Bnking System CLI.exe
+C:\Users\a.razi\source\repos\Bnking System CLI\Bnking System CLI\bin\Debug\net8.0\Bnking System CLI.deps.json
+C:\Users\a.razi\source\repos\Bnking System CLI\Bnking System CLI\bin\Debug\net8.0\Bnking System CLI.runtimeconfig.json
+C:\Users\a.razi\source\repos\Bnking System CLI\Bnking System CLI\bin\Debug\net8.0\Bnking System CLI.dll
+C:\Users\a.razi\source\repos\Bnking System CLI\Bnking System CLI\bin\Debug\net8.0\Bnking System CLI.pdb
+C:\Users\a.razi\source\repos\Bnking System CLI\Bnking System CLI\obj\Debug\net8.0\Bnking System CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.razi\source\repos\Bnking System CLI\Bnking System CLI\obj\Debug\net8.0\Bnking System CLI.AssemblyInfoInputs.cache
+C:\Users\a.razi\source\repos\Bnking System CLI\Bnking System CLI\obj\Debug\net8.0\Bnking System CLI.AssemblyInfo.cs
+C:\Users\a.razi\source\repos\Bnking System CLI\Bnking System CLI\obj\Debug\net8.0\Bnking System CLI.csproj.CoreCompileInputs.cache
+C:\Users\a.razi\source\repos\Bnking System CLI\Bnking System CLI\obj\Debug\net8.0\Bnking System CLI.dll
+C:\Users\a.razi\source\repos\Bnking System CLI\Bnking System CLI\obj\Debug\net8.0\refint\Bnking System CLI.dll
+C:\Users\a.razi\source\repos\Bnking System CLI\Bnking System CLI\obj\Debug\net8.0\Bnking System CLI.pdb
+C:\Users\a.razi\source\repos\Bnking System CLI\Bnking System CLI\obj\Debug\net8.0\Bnking System CLI.genruntimeconfig.cache
+C:\Users\a.razi\source\repos\Bnking System CLI\Bnking System CLI\obj\Debug\net8.0\ref\Bnking System CLI.dll
